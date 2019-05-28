@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Yiwen Xu</title>
     <link>https://YiwenXu.github.io/authors/admin/</link>
-    <description>Recent content on Academic</description>
+    <description>Recent content on Yiwen Xu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -16,8 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://YiwenXu.github.io/authors/admin/</guid>
-      <description>Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
+      <description>Yiwen Xu is a second year postgraduate student in the School of Computer Science and Engineering, UNSW. He has great enthusiasm for computer vision and deep learning; accordingly, he studied a lot of related courses during his postgraduate studies and gain some [course certificate](&amp;lsquo;#accomplishments&amp;rsquo;).</description>
     </item>
     
   </channel>
